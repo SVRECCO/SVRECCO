@@ -1,7 +1,6 @@
 [![Banner](https://github.com/SVRECCO/SVRECCO/raw/main/header.png)](https://github.com/SVRECCO/SVRECCO)
-## Hi there! 
+## Welcome to my GitHub profile!
 
-Welcome to my GitHub profile!
 
 ### 🔭 What I'm Working On
 
