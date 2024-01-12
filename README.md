@@ -1,7 +1,7 @@
 [![Banner](https://github.com/SVRECCO/SVRECCO/raw/main/header.png)](https://github.com/SVRECCO/SVRECCO)
 ## Hi there! 
 
-I'm SethV, a passionate developer and contributor to the open-source community. Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 
 ### 🔭 What I'm Working On
 
