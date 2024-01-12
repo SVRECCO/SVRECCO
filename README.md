@@ -5,7 +5,7 @@ Welcome to my GitHub profile!
 
 ### 🔭 What I'm Working On
 
-- Currently, I'm working on exciting projects related to [insert project/technology here].
+- Currently, I'm working on [FiveM Server (StickUpRP].
 - I'm always eager to collaborate on interesting and innovative projects, so feel free to reach out!
 
 ### 🌱 Programming Languages
