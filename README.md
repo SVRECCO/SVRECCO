@@ -1,4 +1,4 @@
-# <p style="text-align: center;"># Hi 👋, I'm SethV</p>
+# <p style="text-align: center;">Hi 👋, I'm SethV</p>
 [![Banner](https://github.com/SVRECCO/SVRECCO/raw/main/header.png)](https://github.com/SVRECCO/SVRECCO)
 ## Welcome to my GitHub profile!
 
