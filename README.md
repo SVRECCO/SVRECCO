@@ -9,7 +9,6 @@
 
 ### 🌱 Programming Languages
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVRECCO&show_icons=true&theme=onedark&layout=compact)
 
 ### 📈 GitHub Stats
