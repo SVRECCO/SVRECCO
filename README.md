@@ -14,7 +14,7 @@
 ### 📈 GitHub Stats
 
 
-[![SethV's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVRECCO&show_icons=true&theme=onedark&show=stars,commits,issues,contribs)]
+![SethV's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVRECCO&show_icons=true&theme=onedark&show=stars,commits,issues,contribs)
 
 ### 📊 GitHub Streak
 
