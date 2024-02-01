@@ -1,5 +1,5 @@
 # <p align="center">Hi 👋, I'm SethV
-/n Welcome to my GitHub profile!
+Welcome to my GitHub profile!
 </p>
 
 
