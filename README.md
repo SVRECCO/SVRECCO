@@ -4,7 +4,7 @@
 
 ### 🔭 What I'm Working On
 
-- Currently, I'm working on (Remote Work and Collaboration Tools).
+- Currently, I'm working on creating (cloud hosting platform) (Remote Work and Collaboration Tools) (hardware encryption devices).
 - I'm always eager to collaborate on interesting and innovative projects, so feel free to reach out!
 
 ### 🌱 Programming Languages
