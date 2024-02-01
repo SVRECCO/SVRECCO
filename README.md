@@ -10,7 +10,9 @@
 ### 🌱 Programming Languages
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVRECCO&show_icons=true&theme=onedark&layout=compact)
 
+### 📈 GitHub Stats
 
 
 [![SethV's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVRECCO&show_icons=true&theme=onedark&show=stars,commits,issues,contribs)](https://github.com/SVRECCO/github-readme-stats)
