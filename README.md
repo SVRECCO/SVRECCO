@@ -1,4 +1,4 @@
-# <p align="center">Hi 👋, I'm SethV Welcome to my GitHub profile!</p>
+# <p align="center">Hi 👋, I'm SethV \n Welcome to my GitHub profile!</p>
 
 ### 🔭 What I'm Working On
 
