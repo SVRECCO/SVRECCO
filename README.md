@@ -5,7 +5,6 @@
 ### 🔭 What I'm Working On
 
 - **Cloud hosting platform**, **Remote Work and Collaboration Tools**, **Hardware encryption devices**.
-- I'm always eager to collaborate on interesting and innovative projects, so feel free to reach out!
 
 ### 🌱 Programming Languages
 
