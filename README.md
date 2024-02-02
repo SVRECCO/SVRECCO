@@ -23,12 +23,6 @@
 
 ![SethV's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVRECCO&show_icons=true&theme=onedark&show=stars,commits,issues,contribs)
 
-### 📊 GitHub Streak
-
-I love to keep the streak going! Check out my GitHub Streak:
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SVRECCO&theme=onedark)](https://git.io/streak-stats)
-
 ### 📫 How to Reach Me
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/therealsethv/) and [Discord](Discord.gg/SVRECCO). Feel free to drop me a message or follow me for updates on my projects and contributions.
