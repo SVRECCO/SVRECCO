@@ -10,6 +10,18 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVRECCO&show_icons=true&theme=onedark&layout=compact)
 
+   - C#  ![C# Icon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-for-united-states_1f1fa-1f1f8.png)
+   - JavaScript  ![JavaScript Icon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/javascript_1f4f7.png)
+   - Swift  ![Swift Icon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-for-united-states_1f1fa-1f1f8.png)
+   
+   - MariaDB  ![MariaDB Icon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-for-united-states_1f1fa-1f1f8.png)
+   - MySQL  ![MySQL Icon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-for-united-states_1f1fa-1f1f8.png)
+   
+   - REST API  ![REST API Icon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-for-united-states_1f1fa-1f1f8.png)
+   
+   - HTML  ![HTML Icon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-for-united-states_1f1fa-1f1f8.png)
+   - CSS  ![CSS Icon](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/285/flag-for-united-states_1f1fa-1f1f8.png)
+
 ### 📈 GitHub Stats
 
 
