@@ -8,6 +8,7 @@
 
 ### 🌱 Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVRECCO&show_icons=true&theme=onedark&layout=compact)
+
  ![C# Icon](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
  ![JavaScript Icon](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
  ![Swift Icon](https://img.shields.io/badge/Swift-FFAC45?style=for-the-badge&logo=swift&logoColor=white)
