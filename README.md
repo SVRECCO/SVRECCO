@@ -27,6 +27,10 @@
 
 - admin@svrecco.com
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/therealsethv/) and [Discord](Discord.gg/SVRECCO). Feel free to drop me a message or follow me for updates on my projects and contributions.
+- [LinkedIn](https://www.linkedin.com/in/therealsethv/) 
+- [Discord](Discord.gg/SVRECCO).
+
+  
+ Feel free to drop me a message or follow me for updates on my projects and contributions.
 
 Thanks for visiting my GitHub profile! 😄
