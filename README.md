@@ -8,6 +8,7 @@
 
 ### 🌱 Programming Arsenal
 
+- ![Rust Icon](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 - ![C# Icon](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
 - ![JavaScript Icon](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![Swift Icon](https://img.shields.io/badge/Swift-FFAC45?style=for-the-badge&logo=swift&logoColor=white)
