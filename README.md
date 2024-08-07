@@ -4,7 +4,7 @@
 
 ### 🔭 What I'm Working On
 
-- **Cloud hosting platform**, **Remote Work and Collaboration Tools**, **Hardware encryption devices**.
+- **Cybersecurity tools for businesses  / ransomware reverse engineering tools**, **Locally ran open source LLM API's**, **Enterprise CMS platforms**.
 
 ### 🌱 Programming Arsenal
 
