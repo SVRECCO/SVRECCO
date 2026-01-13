@@ -25,4 +25,4 @@
 ### How to Reach Me
 
 - admin@svrecco.com
-- [SethV](https://sethv.dev/)
+- [SethV Website](https://sethv.dev/)
