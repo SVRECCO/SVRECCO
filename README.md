@@ -18,9 +18,9 @@
 
 ### GitHub Stats
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SVRECCO&show_icons=true&theme=onedark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SVRECCO&show_icons=true&theme=onedark&layout=compact)
 
-![SethV's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SVRECCO&show_icons=true&theme=onedark)
+![SethV's GitHub stats](https://github-readme-stats.vercel.app/api?username=SVRECCO&show_icons=true&theme=onedark&show=stars,commits,issues,contribs)
 
 ### How to Reach Me
 
