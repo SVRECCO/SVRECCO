@@ -4,7 +4,7 @@
 
 ### What I'm Working On
 
-- **Red Team Tools / SOC Tools**, **Reverse Engineering With IDA** **Embedded Systems / Xtensa LX6/RISC-V**  .
+- **Red Team Tools / SOC Tools**, **Reverse Engineering With IDA**, **Embedded Systems / Xtensa LX6/RISC-V**
 
 ### My Tech Stack
 
